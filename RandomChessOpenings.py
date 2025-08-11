@@ -7,7 +7,8 @@
 ###########################################################################
 import random
 
-# List of chess openings with their weights # The more common the opening, the higher the weight
+# List of chess openings with their weights # The more common the opening,
+# the higher the weight
 # The rare/odd ones shall be presented less often
 openings = [
     "e4 Opening - Ruy Lopez (Spanish Game)",
